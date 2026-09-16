@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://crocoreel.co.nl/sitemap.xml
+Sitemap: https://aureonplay-casino.co.nl/sitemap.xml
