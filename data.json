@@ -37,56 +37,60 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": " Star Burst",
-          "Name": " Star Burst"
+          "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+          "name": " Legacy of Dead",
+          "Name": " Legacy of Dead",
+          "logo_alt": "Legacy of Dead"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "Lucky Jet",
-          "Name": "Lucky Jet"
+          "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
+          "name": "King of the west",
+          "Name": "King of the west",
+          "logo_alt": "king of the west"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "Aviatrix",
-          "Name": "Aviatrix"
+          "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+          "name": "Book of Dead",
+          "Name": "Book of Dead",
+          "logo_alt": "Book of Dead"
         },
         {
-          "link": "",
-          "logo": "",
-          "name": "Wild spin",
-          "Name": "Wild spin"
+          "link": "/play/",
+          "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+          "name": "Dead or Alive",
+          "Name": "Dead or Alive",
+          "logo_alt": "Dead or Alive"
         }
       ],
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "/uploads/4d2c57274ad41f70797e49427599fbc6.webp",
-          "name": "EERSTE STORTINGSBONUS 120% TOT €200 + 100 FS",
-          "Name": "EERSTE STORTINGSBONUS 120% TOT €200 + 100 FS",
-          "logo_alt": "Crypto Bonus"
+          "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+          "name": "Weekly Reload – 30% stortingsbonus, één keer per week",
+          "Name": "Weekly Reload – 30% stortingsbonus, één keer per week",
+          "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/639349a37cc6ac7b8e73501da737506d.webp",
-          "name": "EERSTE CRYPTO STORTING 150% TOT €1000",
-          "Name": "EERSTE CRYPTO STORTING 150% TOT €1000",
+          "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+          "name": "1e stortingsbonus – 125% tot €1000 + 75 FS",
+          "Name": "1e stortingsbonus – 125% tot €1000 + 75 FS",
+          "logo_alt": "Exclusive Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+          "name": "Friday Reload – tot 100 FS",
+          "Name": "Friday Reload – tot 100 FS",
           "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/ff3799c304493a4eadcd34d7ed511ace.webp",
-          "name": "HIGH ROLLER TWEEDE STORTING 50% TOT €1500",
-          "Name": "HIGH ROLLER TWEEDE STORTING 50% TOT €1500",
-          "logo_alt": "Welcome Bonus"
-        },
-        {
-          "link": "",
-          "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
-          "name": "ROYAL STORTING DEKKING 10% TOT €150",
-          "Name": "ROYAL STORTING DEKKING 10% TOT €150",
+          "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+          "name": "2e stortingsbonus – 100% tot €1500 + 100 FS",
+          "Name": "2e stortingsbonus – 100% tot €1500 + 100 FS",
           "logo_alt": "Sport Bonus"
         }
       ],
@@ -113,42 +117,42 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Hoe kan ik een account aanmaken en inloggen bij CrocoReel Casino?",
+        "name": "Hoe voer ik een Aureonplay login uit?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Het aanmaken van een account duurt slechts enkele minuten. Klik op de registratieknop op onze homepage, vul de gevraagde gegevens in en bevestig uw e-mailadres. Hierna kunt u met uw gekozen gegevens direct een CrocoReel Login uitvoeren om toegang te krijgen tot het platform."
+          "text": "Ga naar onze officiële website, klik op de knop \"Inloggen\" rechtsboven op de pagina, vul je geregistreerde e-mailadres en wachtwoord in en bevestig de invoer."
         }
       },
       {
         "@type": "Question",
-        "name": "Welke CrocoReel Bonus is er beschikbaar voor nieuwe spelers?",
+        "name": "Wat is de minimale storting bij Aureonplay Casino?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Nieuwe spelers kunnen profiteren van een aantrekkelijk welkomstpakket dat kan oplopen tot 1.000 gratis spins op geselecteerde gokkasten. Daarnaast bieden wij een wekelijkse cashback van 10% op netto verliezen en diverse netwerk jackpot drops."
+          "text": "De minimale storting bedraagt €10 voor reguliere betalingen en €20 om in aanmerking te komen voor de welkomstbonus.\n"
         }
       },
       {
         "@type": "Question",
-        "name": "Hoe lang duurt een CrocoReel Casino Withdrawal?",
+        "name": "Is Casino Aureonplay geschikt voor mobiel gebruik?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "De verwerkingstijd van een opname hangt af van de gekozen betaalmethode. Uitbetalingen naar e-wallets worden meestal binnen 24 uur verwerkt, terwijl opnames via creditcard of bankoverschrijving 1 tot 5 werkdagen in beslag kunnen nemen. Zorg ervoor dat uw account volledig is geverifieerd om vertraging te voorkomen."
+          "text": "Ja, ons platform is volledig mobiel geoptimaliseerd. Je kunt alle functies gebruiken via de webbrowser van je iOS- of Android-apparaat zonder dat je een losse Mobiele App hoeft te installeren."
         }
       },
       {
         "@type": "Question",
-        "name": "Is CrocoReel Online toegankelijk op mobiele apparaten?",
+        "name": "Welke bonussen kan ik verwachten bij Aureonplay?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Ja, ons platform is volledig geoptimaliseerd voor mobiele apparaten. U heeft geen aparte downloads nodig; u kunt de Mobiele App-ervaring direct via de browser van uw smartphone of tablet gebruiken bij CrocoReels."
+          "text": "Wij bieden een welkomstpakket over de eerste drie stortingen tot maximaal €10.000 + 550 free spins, wekelijkse reload bonussen op maandag, woensdag en vrijdag, en een dagelijkse cashback tot 20%."
         }
       },
       {
         "@type": "Question",
-        "name": "Is het veilig om te spelen bij CrocoReel Casino?",
+        "name": "Hoe lang duren uitbetalingen bij Aureonplay Casino?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Ja, CrocoReel opereert onder licentie 8048/JAZ uit Curaçao en maakt gebruik van moderne SSL-encryptie om uw gegevens en transacties te beschermen. Al onze spellen werken met gecertificeerde willekeurige nummergeneratoren (RNG) voor een eerlijk verloop van het spel."
+          "text": "Opnameverzoeken worden binnen 24 uur door ons team beoordeeld. Uitbetalingen via cryptovaluta en e-wallets worden daarna direct verwerkt, terwijl bankoverschrijvingen 1 tot 4 werkdagen in beslag kunnen nemen."
         }
       }
     ]
@@ -173,14 +177,14 @@
   "home_name": "Aureonplay Casino",
   "subdomains": null,
   "accent_color": "#334155",
-  "main_background": "#1b2135",
-  "secondary_background": "#090e1d",
-  "button_background": "#f8c888",
+  "main_background": "#05182a",
+  "secondary_background": "#010f1d",
+  "button_background": "#e7a001",
   "button_text_color": "#000000",
   "text_color": "#ffffff",
-  "color_highlight_text": "#c8d8ea",
+  "color_highlight_text": "#e9d59a",
   "color_main_btn_text": "#000000",
-  "cta_background": "#f8c888",
+  "cta_background": "#eec109",
   "logo": {
     "url": "/uploads/c9c0053a70194eaece7cc8016073a61c.svg"
   },
@@ -263,106 +267,114 @@
   "footer_images": [
     {
       "link": "/play/",
-      "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
-      "image_alt": "bank transfer"
-    },
-    {
-      "link": "/play/",
       "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
       "image_alt": "visa"
     },
     {
       "link": "/play/",
-      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
-      "image_alt": "bitcoin"
+      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
+      "image_alt": "skrill"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/7840ef82300a1f935a675de6720a46ea.svg",
+      "image_alt": "neosurf"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
+      "image_alt": "bank transfer"
     },
     {
       "link": "https://www.gambleaware.org/",
-      "image": "/uploads/7b5af286adade20c01b9aee4e0251787.webp",
-      "image_alt": "be gamble aware"
+      "image": "/uploads/d406c25a07780243e74569167c0997fd.webp"
     }
   ],
   "Slots": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": " Star Burst",
-      "Name": " Star Burst"
+      "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+      "name": " Legacy of Dead",
+      "Name": " Legacy of Dead",
+      "logo_alt": "Legacy of Dead"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "Lucky Jet",
-      "Name": "Lucky Jet"
+      "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
+      "name": "King of the west",
+      "Name": "King of the west",
+      "logo_alt": "king of the west"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "Aviatrix",
-      "Name": "Aviatrix"
+      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+      "name": "Book of Dead",
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
     },
     {
-      "link": "",
-      "logo": "",
-      "name": "Wild spin",
-      "Name": "Wild spin"
+      "link": "/play/",
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead or Alive",
+      "Name": "Dead or Alive",
+      "logo_alt": "Dead or Alive"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/4d2c57274ad41f70797e49427599fbc6.webp",
-      "name": "EERSTE STORTINGSBONUS 120% TOT €200 + 100 FS",
-      "Name": "EERSTE STORTINGSBONUS 120% TOT €200 + 100 FS",
-      "logo_alt": "Crypto Bonus"
+      "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+      "name": "Weekly Reload – 30% stortingsbonus, één keer per week",
+      "Name": "Weekly Reload – 30% stortingsbonus, één keer per week",
+      "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/639349a37cc6ac7b8e73501da737506d.webp",
-      "name": "EERSTE CRYPTO STORTING 150% TOT €1000",
-      "Name": "EERSTE CRYPTO STORTING 150% TOT €1000",
+      "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+      "name": "1e stortingsbonus – 125% tot €1000 + 75 FS",
+      "Name": "1e stortingsbonus – 125% tot €1000 + 75 FS",
+      "logo_alt": "Exclusive Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+      "name": "Friday Reload – tot 100 FS",
+      "Name": "Friday Reload – tot 100 FS",
       "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/ff3799c304493a4eadcd34d7ed511ace.webp",
-      "name": "HIGH ROLLER TWEEDE STORTING 50% TOT €1500",
-      "Name": "HIGH ROLLER TWEEDE STORTING 50% TOT €1500",
-      "logo_alt": "Welcome Bonus"
-    },
-    {
-      "link": "",
-      "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
-      "name": "ROYAL STORTING DEKKING 10% TOT €150",
-      "Name": "ROYAL STORTING DEKKING 10% TOT €150",
+      "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+      "name": "2e stortingsbonus – 100% tot €1500 + 100 FS",
+      "Name": "2e stortingsbonus – 100% tot €1500 + 100 FS",
       "logo_alt": "Sport Bonus"
     }
   ],
   "Reviews": null,
   "FAQ": [
     {
-      "answer": "Het aanmaken van een account duurt slechts enkele minuten. Klik op de registratieknop op onze homepage, vul de gevraagde gegevens in en bevestig uw e-mailadres. Hierna kunt u met uw gekozen gegevens direct een CrocoReel Login uitvoeren om toegang te krijgen tot het platform.",
-      "question": "Hoe kan ik een account aanmaken en inloggen bij CrocoReel Casino?"
+      "answer": "Ga naar onze officiële website, klik op de knop \"Inloggen\" rechtsboven op de pagina, vul je geregistreerde e-mailadres en wachtwoord in en bevestig de invoer.",
+      "question": "Hoe voer ik een Aureonplay login uit?"
     },
     {
-      "answer": "Nieuwe spelers kunnen profiteren van een aantrekkelijk welkomstpakket dat kan oplopen tot 1.000 gratis spins op geselecteerde gokkasten. Daarnaast bieden wij een wekelijkse cashback van 10% op netto verliezen en diverse netwerk jackpot drops.",
-      "question": "Welke CrocoReel Bonus is er beschikbaar voor nieuwe spelers?"
+      "answer": "De minimale storting bedraagt €10 voor reguliere betalingen en €20 om in aanmerking te komen voor de welkomstbonus.\n",
+      "question": "Wat is de minimale storting bij Aureonplay Casino?"
     },
     {
-      "answer": "De verwerkingstijd van een opname hangt af van de gekozen betaalmethode. Uitbetalingen naar e-wallets worden meestal binnen 24 uur verwerkt, terwijl opnames via creditcard of bankoverschrijving 1 tot 5 werkdagen in beslag kunnen nemen. Zorg ervoor dat uw account volledig is geverifieerd om vertraging te voorkomen.",
-      "question": "Hoe lang duurt een CrocoReel Casino Withdrawal?"
+      "answer": "Ja, ons platform is volledig mobiel geoptimaliseerd. Je kunt alle functies gebruiken via de webbrowser van je iOS- of Android-apparaat zonder dat je een losse Mobiele App hoeft te installeren.",
+      "question": "Is Casino Aureonplay geschikt voor mobiel gebruik?"
     },
     {
-      "answer": "Ja, ons platform is volledig geoptimaliseerd voor mobiele apparaten. U heeft geen aparte downloads nodig; u kunt de Mobiele App-ervaring direct via de browser van uw smartphone of tablet gebruiken bij CrocoReels.",
-      "question": "Is CrocoReel Online toegankelijk op mobiele apparaten?"
+      "answer": "Wij bieden een welkomstpakket over de eerste drie stortingen tot maximaal €10.000 + 550 free spins, wekelijkse reload bonussen op maandag, woensdag en vrijdag, en een dagelijkse cashback tot 20%.",
+      "question": "Welke bonussen kan ik verwachten bij Aureonplay?"
     },
     {
-      "answer": "Ja, CrocoReel opereert onder licentie 8048/JAZ uit Curaçao en maakt gebruik van moderne SSL-encryptie om uw gegevens en transacties te beschermen. Al onze spellen werken met gecertificeerde willekeurige nummergeneratoren (RNG) voor een eerlijk verloop van het spel.",
-      "question": "Is het veilig om te spelen bij CrocoReel Casino?"
+      "answer": "Opnameverzoeken worden binnen 24 uur door ons team beoordeeld. Uitbetalingen via cryptovaluta en e-wallets worden daarna direct verwerkt, terwijl bankoverschrijvingen 1 tot 4 werkdagen in beslag kunnen nemen.",
+      "question": "Hoe lang duren uitbetalingen bij Aureonplay Casino?"
     }
   ],
-  "_generated_at": "2026-09-16T11:54:53.547Z",
+  "_generated_at": "2026-09-16T13:12:04.456Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-16T11:54:54.111Z",
-  "_deploy_trigger": "kzquzk"
+  "_last_deploy": "2026-09-16T13:12:05.060Z",
+  "_deploy_trigger": "b9wn5f"
 }
