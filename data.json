@@ -5,7 +5,7 @@
   "url": "aureonplay-casino.co.nl",
   "template": "tupchiy",
   "language_code": "nl",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -95,9 +95,13 @@
         }
       ],
       "faq": [],
+      "globalSlotSetId": null,
+      "globalReviewSetId": null,
       "websiteId": 165,
       "createdAt": {},
       "updatedAt": {},
+      "globalSlotSet": null,
+      "globalReviewSet": null,
       "popup_text": "Welcome pack 425% up to €10 000+550FS",
       "popup_logo": "/uploads/c9c0053a70194eaece7cc8016073a61c.svg",
       "hero_title": "Aureonplay Casino",
@@ -373,8 +377,8 @@
       "question": "Hoe lang duren uitbetalingen bij Aureonplay Casino?"
     }
   ],
-  "_generated_at": "2026-09-16T13:20:52.729Z",
+  "_generated_at": "2026-09-24T00:03:25.711Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-16T13:20:53.320Z",
-  "_deploy_trigger": "xjdi2"
+  "_last_deploy": "2026-09-24T00:03:26.283Z",
+  "_deploy_trigger": "2qi8l"
 }
